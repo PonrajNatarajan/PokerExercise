@@ -1,0 +1,1500 @@
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 7C 8D 9C 9D  Player2 Value: 2S 8H 9H 10H 13D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 5H 6C 7S 14S  Player2 Value: 2S 2C 7H 13D 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 8H 10C 11S 14D  Player2 Value: 5D 6H 9C 12C 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4S 6C 8S 10S  Player2 Value: 5D 6S 8D 13S 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 3C 8C 10C 14S  Player2 Value: 2H 5H 5C 8D 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 5H 14C 14H 14S  Player2 Value: 4C 7S 8S 10C 12C 
+Combination: Threeofkind            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 6D 7H 8S 10H  Player2 Value: 3S 6C 9H 10D 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4D 8C 11H 13D  Player2 Value: 2S 2C 4H 8S 11S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 6S 9S 11S 11D  Player2 Value: 4D 5S 8H 9D 13S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 3D 10C 11C 13C  Player2 Value: 2H 4D 5H 7S 12H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4H 5H 7D 10C  Player2 Value: 5S 6H 6C 12S 13C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 3C 7D 10C 14C  Player2 Value: 3S 4H 4D 11S 11D 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7S 8S 13D 14C 14H  Player2 Value: 3S 5D 6D 7H 10C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 5H 5S 11S 12C  Player2 Value: 2S 8C 11C 13C 13H 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 3H 8C 10C 12S  Player2 Value: 2S 4C 6C 13S 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 7H 11S 12S 14H  Player2 Value: 3H 3C 8D 11H 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6C 10C 10D 13D  Player2 Value: 2C 3H 4D 5H 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 5H 8S 12S 12H  Player2 Value: 6S 7H 7S 11D 14S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7H 12C 12H 12S 13C  Player2 Value: 3H 8D 9C 10D 10C 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 9S 10S 10C 11H 12D  Player2 Value: 2C 5H 6S 8D 10D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 5D 5S 9C 11C  Player2 Value: 7C 11S 13C 14C 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 8H 9D 10D 14D  Player2 Value: 2H 2D 6H 9S 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 6D 6H 12H 14H  Player2 Value: 5D 6C 7S 10D 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7S 7D 8H 10H 12S  Player2 Value: 2H 5S 6C 8D 9S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 7D 8H 12H 12D  Player2 Value: 2D 3S 4H 7H 10D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 7S 8S 9H 11D  Player2 Value: 2D 8C 10H 14D 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 7S 8D 11H 13C  Player2 Value: 3D 7D 9S 10H 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 6H 7D 9C 12S  Player2 Value: 2D 3D 10C 14S 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6H 10S 11S 12C 13C  Player2 Value: 8C 10H 12S 14D 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5H 6S 8H 10C  Player2 Value: 3S 5S 10D 13H 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7D 9H 11S 13D  Player2 Value: 5C 5S 6S 6H 10H 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 5S 5D 6D 10D  Player2 Value: 3D 4H 6S 11D 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 8C 12C 12S 14S  Player2 Value: 3H 6D 6C 7C 9D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4D 7H 9C 10D  Player2 Value: 3S 5C 8H 12H 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 10D 11C 12H 14H  Player2 Value: 2D 6S 7H 8S 11H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 7C 9S 10S 13H  Player2 Value: 2S 2C 5S 7H 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6H 9D 9H 13C  Player2 Value: 3D 9S 10C 11C 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3D 6C 9H 10S  Player2 Value: 2H 4S 9D 12S 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7C 8D 8S 14C  Player2 Value: 2S 3C 6S 11S 12H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 6D 7C 10D 12H  Player2 Value: 2H 6S 8C 9D 10C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 8D 10H 11H 12D  Player2 Value: 4D 6H 6C 12C 13C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 6C 7D 11D 12D  Player2 Value: 2C 3H 9S 10D 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 6D 7S 8D 10C  Player2 Value: 4C 9S 10D 13S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 5D 5S 7C 12S  Player2 Value: 2S 6S 7D 12D 13D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6H 12S 13S 14C  Player2 Value: 7D 10C 12H 13H 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5C 7C 9H 12S  Player2 Value: 4H 6S 7D 10D 10H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 3S 4H 11D 14S  Player2 Value: 3C 6C 7H 7S 11S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 12H 12C 14D 14H  Player2 Value: 6S 9C 10C 11C 12D 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3D 4C 10D 13D  Player2 Value: 7C 8C 9C 11C 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 5H 7D 8C 9D  Player2 Value: 5C 6D 8S 10H 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 8S 10C 11C 11S  Player2 Value: 2H 5S 9S 13C 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6H 8D 10H 10S 12C  Player2 Value: 2H 4S 11C 13H 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3C 3S 8S 10H  Player2 Value: 3H 6C 7H 12H 13S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3C 4H 11C 14D  Player2 Value: 7D 8S 9S 13S 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 8S 10S 10H 14S  Player2 Value: 5H 5D 11S 12S 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 9D 11H 12D 13D  Player2 Value: 4C 6D 6C 9C 10H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 5S 5C 9S 13D  Player2 Value: 7H 8D 10C 13S 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3S 5H 11C 12S  Player2 Value: 4S 5C 9C 12C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4H 7H 11H 14H  Player2 Value: 5D 5H 6H 8S 12D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4H 6H 9C 13S  Player2 Value: 5H 7D 10D 11D 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 6C 11C 11S 12D  Player2 Value: 6S 6D 9H 9D 13H 
+Combination: Pair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3D 3S 13H 14S  Player2 Value: 6D 7H 9D 11D 13C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4H 4D 7S 13H  Player2 Value: 2H 4S 7D 9C 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5C 6H 8S 13H  Player2 Value: 2C 6C 10D 10C 13S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 7D 9S 11S 12H  Player2 Value: 2D 4C 5C 8H 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 5S 8C 11H 14H  Player2 Value: 3H 5C 7S 8D 12H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7H 11H 13S 13H 14C  Player2 Value: 2D 6D 9H 11S 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 8C 9C 10H 14D  Player2 Value: 5D 7H 8H 8D 12S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 5H 7S 8C 9H  Player2 Value: 3S 6H 6D 8S 13S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4C 6D 12C 14D  Player2 Value: 3H 4D 8C 10D 13D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 7C 11S 13S 14H  Player2 Value: 2S 3D 6C 10H 12H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7C 8H 10D 11D 12S  Player2 Value: 3H 9H 11C 11S 14S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 2D 3H 10H 12H  Player2 Value: 5S 8H 9S 11H 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4S 6C 8S 12C  Player2 Value: 3S 5C 11C 13S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 5S 9C 9D 10H  Player2 Value: 2S 7C 10C 13D 13S 
+Combination: TwoPair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 5S 7S 13D 14H  Player2 Value: 4H 8C 8H 9S 10H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 6H 8H 9D 10D  Player2 Value: 2S 2D 5C 6C 10H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3H 4S 8C 12C  Player2 Value: 3S 5D 10H 10S 11D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 8C 11H 11C 13D  Player2 Value: 4D 7S 10C 11D 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 6H 11D 12H 13D  Player2 Value: 2H 7C 8C 9H 12D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6D 7S 9D 13H 13S  Player2 Value: 2D 3H 4C 9S 13D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4H 10D 11D 13C  Player2 Value: 2H 8H 9H 11H 13D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4S 5D 7C 10D  Player2 Value: 5S 6H 8S 13C 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6H 7S 8D 11C 11H  Player2 Value: 3D 5S 9D 12C 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 5H 8C 8D 14D  Player2 Value: 6S 6D 10H 11D 12D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 7C 9C 10H 11C  Player2 Value: 2C 3C 12C 13H 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 4C 6D 11H 11C  Player2 Value: 4D 8D 10S 12D 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 6S 10D 12H 14C  Player2 Value: 2D 2C 5C 11S 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5C 6C 10C 12C  Player2 Value: 6D 8S 11D 12S 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3C 6C 8H 9D  Player2 Value: 2D 4D 7S 8S 12H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 2C 4H 8D 14S  Player2 Value: 3S 4C 4S 5S 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 4S 5C 10S 12D  Player2 Value: 2S 2C 3D 6C 12H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 5H 5S 7S 9D  Player2 Value: 4H 6D 6H 12H 14S 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 2H 9S 10H 11H  Player2 Value: 9H 11C 12D 12H 14C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5C 10D 12S 13C  Player2 Value: 2S 7S 11C 12C 12H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 7C 8S 9S 13C  Player2 Value: 2D 3H 5H 10S 11S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4S 4C 8H 11H  Player2 Value: 5H 8C 12C 12H 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7S 8D 12S 14S 14H  Player2 Value: 3C 4S 4C 7D 11H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 8D 9C 12H 14H  Player2 Value: 3S 6C 7H 9H 11S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3D 6S 11C 12S  Player2 Value: 2S 6C 8D 12D 12C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6D 8C 11D 11S 12H  Player2 Value: 8S 8D 9C 14C 14D 
+Combination: Pair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4H 6H 7D 8H  Player2 Value: 2S 7H 9H 10D 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 3H 6C 7H 13H  Player2 Value: 4S 6S 8S 8C 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 4S 7D 11H 12C  Player2 Value: 2D 3S 7C 9S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4S 9H 14S 14H  Player2 Value: 2D 6H 7H 10C 13S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 7D 7H 9C 11D  Player2 Value: 3D 6D 6C 11C 12H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7S 9S 10S 12H 14D  Player2 Value: 4D 8D 10C 12C 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 6D 6S 8H 10C  Player2 Value: 3S 4C 7D 8D 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 7D 10C 12C 13H  Player2 Value: 2H 6C 7S 10S 12D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 3S 4D 9C 12D  Player2 Value: 2D 6C 10D 12S 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4H 6D 7H 11H  Player2 Value: 4D 9D 10C 12D 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 8C 12C 13S 14S  Player2 Value: 7S 8H 9S 11S 12D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 7C 9H 11D 14C  Player2 Value: 5S 8H 11C 12S 13D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 5H 6C 9S 14D  Player2 Value: 4D 5C 9H 11S 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 6D 11D 13D 14D  Player2 Value: 5D 5C 9H 10D 10C 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 7D 7C 10H 14D  Player2 Value: 2H 3S 8C 9S 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 9H 9S 10S 12C  Player2 Value: 3H 11S 12S 13H 13D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3D 8S 10D 11S  Player2 Value: 2C 3C 7S 9C 11D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 10S 11D 12D 14C  Player2 Value: 2S 7S 7H 11C 13C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 5C 8H 8C 13D  Player2 Value: 4H 7H 9C 11C 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 6D 10C 12D 12C  Player2 Value: 4C 5S 9H 12S 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 6H 11S 12H 14S  Player2 Value: 2H 4D 5D 10D 11H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 5C 11D 12H 12S  Player2 Value: 4S 5D 6D 10S 13C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 6D 7C 12D 13C  Player2 Value: 3H 4S 6H 10H 11S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 7H 9S 10C 13D  Player2 Value: 3S 6C 8H 14D 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4H 5D 7H 13H  Player2 Value: 2H 8H 12H 13S 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 5H 8C 10D 13C  Player2 Value: 2H 10S 11C 11H 13S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 4S 7C 8D 8C  Player2 Value: 3D 3H 5D 11H 14S 
+Combination: TwoPair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3S 6C 8S 9H  Player2 Value: 4C 7S 8D 10S 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 4D 5D 13S 14D  Player2 Value: 6D 7D 12D 13H 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 8C 8D 9C 12D  Player2 Value: 2H 4C 6D 13C 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 9S 11D 11H 11C  Player2 Value: 2D 5H 5C 6C 14D 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3C 5H 9H 14S  Player2 Value: 4D 6C 11S 12S 13D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4S 11C 12S 14H  Player2 Value: 3S 9C 9D 11D 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4H 4S 5H 11C  Player2 Value: 3D 6S 9S 12C 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3D 8D 11C 13H  Player2 Value: 2D 2S 7C 9C 9S 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4C 10H 13H 14D  Player2 Value: 3D 4H 5H 6D 9H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3C 7H 8H 8S  Player2 Value: 5S 5H 11C 11D 14D 
+Combination: Pair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 8C 9D 9H 11D 12S  Player2 Value: 2D 5D 10H 11C 12H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 7H 10D 11C 12H  Player2 Value: 2D 7C 7D 10S 11D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 5H 7S 8D 13H  Player2 Value: 5S 6H 6D 10S 10D 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 10D 12C 13C 14H  Player2 Value: 2H 3S 4S 11S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 5H 10H 10S 11D  Player2 Value: 3S 5S 6H 12S 13C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 2D 7H 11C 14C  Player2 Value: 6H 7S 9C 11D 12H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6H 7H 13H 13C 13S  Player2 Value: 2S 2D 3H 9H 10C 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4C 10C 11C 13S  Player2 Value: 7D 9H 9D 10D 12D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 5H 12H 13S 14D  Player2 Value: 2H 7S 9C 10C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5D 5C 7S 10C  Player2 Value: 4C 7D 10D 12S 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 8D 10C 11D 12D  Player2 Value: 8H 8C 10S 12C 13C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 5D 9H 9C 10C  Player2 Value: 9D 12H 13S 14H 14S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 5D 7C 10S 11C  Player2 Value: 4D 4H 7S 8S 10D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 5D 9C 10H 12D  Player2 Value: 3H 6H 8H 8S 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5D 5S 6H 10H  Player2 Value: 2H 4S 7S 10S 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3S 9S 9H 12S  Player2 Value: 6H 6C 11D 12D 14C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 5D 9S 9H 14H  Player2 Value: 3S 4D 11H 12H 13C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 11H 11C 12D 14H  Player2 Value: 2D 3H 4D 6D 12H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 10D 11C 12H 14H  Player2 Value: 2H 3H 4C 6S 8C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 9H 10S 13D 13S  Player2 Value: 3D 5S 8H 12H 12C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4H 7C 13D 14H  Player2 Value: 2H 6D 6S 9S 10D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 6S 7D 10H 14D  Player2 Value: 7S 8D 12D 13H 13D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 8C 9H 9D 13C  Player2 Value: 2C 4D 5H 8D 8H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 5D 6S 7D 12S  Player2 Value: 3S 4S 6D 12C 12H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 8S 11D 12S 13D  Player2 Value: 2C 2S 5H 7D 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 6H 9D 13S 14D  Player2 Value: 2C 5C 7C 10H 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 2H 3D 10H 14D  Player2 Value: 2D 4C 8H 10D 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4D 10C 13S 14D  Player2 Value: 4H 5C 6D 6C 7S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3C 6S 8H 14S  Player2 Value: 6D 6H 11S 12D 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 10C 11H 12D 14S  Player2 Value: 3S 5C 5H 8D 13D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5H 6S 10C 13S  Player2 Value: 4H 7D 8S 11C 12C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6S 7H 9D 9S  Player2 Value: 2D 3C 3S 4D 11C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 9C 10H 10C 14S  Player2 Value: 4H 5C 5S 7D 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 9D 11S 11H 13H 14D  Player2 Value: 4S 6C 7H 10S 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 4D 8H 9H 11H  Player2 Value: 2H 4H 6D 8C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4S 10H 11S 13D  Player2 Value: 4H 5H 9D 10C 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 9S 12D 12H 12C  Player2 Value: 2C 4H 8H 9C 13H 
+Combination: Threeofkind            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4H 7C 10D 12C  Player2 Value: 2H 3D 4D 4S 5D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 8S 9S 11C 11S 12S  Player2 Value: 5C 7D 8D 10C 10D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7H 7D 13D 14D 14C  Player2 Value: 2S 3C 8D 9D 12S 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 9S 12S 12C 13S  Player2 Value: 5C 6H 7C 9C 11S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 3H 3D 9D 10S  Player2 Value: 4C 8H 11S 11C 12H 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4H 9C 10H 11D  Player2 Value: 4D 5H 9H 10D 12H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5H 6S 9C 13D  Player2 Value: 3S 3C 5D 9D 13C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3H 5H 6S 7S  Player2 Value: 3C 9S 9H 10C 10H 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 11H 12C 13S 14C  Player2 Value: 3H 5D 10C 11S 11C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7D 7S 8D 10C 11S  Player2 Value: 2C 7H 8C 11D 13D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 7S 8C 11H 12H  Player2 Value: 7H 10D 12S 13C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 6H 8H 8C 13C  Player2 Value: 5H 5C 8D 8S 12C 
+Combination: Pair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7D 8C 9C 13C 14H  Player2 Value: 2D 3H 4D 11S 12C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 7S 8C 11D 14H  Player2 Value: 2S 6D 10D 11S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7S 11D 12D 13S 14C  Player2 Value: 3D 8D 9H 10S 10C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6S 9H 10S 11D 12S  Player2 Value: 4H 6D 7C 8D 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 6H 7H 7C 9S  Player2 Value: 4D 5D 9C 10D 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3C 5D 10H 11C  Player2 Value: 5C 7H 8C 10D 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3C 3D 7H 10D  Player2 Value: 6C 7S 7D 12C 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 6H 6S 7H 14H  Player2 Value: 3D 6D 9C 10D 10C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 7C 11H 12H 14C  Player2 Value: 2D 2S 6S 8C 10S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 5S 8H 9D 11S  Player2 Value: 2H 5C 9S 13H 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 7H 8S 12C 14C  Player2 Value: 3D 11C 11S 13C 13D 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7D 7H 9D 11D 13S  Player2 Value: 4S 4H 10D 12D 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 4S 7C 13H 14C  Player2 Value: 2D 5H 8S 10H 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 3H 7S 8H 14C  Player2 Value: 5S 7C 9C 11S 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4D 5D 6S 10S  Player2 Value: 3D 8H 11D 11C 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 8C 9C 9D 11H  Player2 Value: 3D 4D 5C 10S 11D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 5H 10D 11C 13H  Player2 Value: 5D 6D 11D 12S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 7C 10C 12C 14D  Player2 Value: 6H 7S 9D 11C 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 3S 6S 9C 13S  Player2 Value: 2S 4D 5H 11C 13D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5D 5H 10H 11D  Player2 Value: 8S 8H 10C 13S 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 8C 9D 10S 14C  Player2 Value: 2D 2S 4H 6H 12H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4S 6D 9D 10S  Player2 Value: 3H 4C 11S 12C 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 2C 7D 12S 14S  Player2 Value: 3H 4C 7S 12C 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 5H 7H 9H 14S  Player2 Value: 3S 7C 10D 10C 14C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 8D 10C 12H 14H  Player2 Value: 2S 3C 4S 5S 10H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 7C 12C 13S 14H  Player2 Value: 4S 5C 8C 9H 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 5S 6C 9S 11H  Player2 Value: 4H 7S 8C 11S 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4D 6C 12C 13D  Player2 Value: 2S 4H 6H 8S 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 10H 11D 11S 14S  Player2 Value: 8H 9H 12C 14D 14C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 7H 11S 13D 14S  Player2 Value: 6D 9H 10C 11D 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 6H 9H 11C 13D  Player2 Value: 3C 4H 6D 8H 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 8H 10C 10S 14S  Player2 Value: 2C 5H 5D 6S 13S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 8C 9S 9H 11H  Player2 Value: 3S 4D 5H 8S 9D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 6S 8C 8H 12H  Player2 Value: 3S 5C 9H 11H 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3C 9S 11D 14S  Player2 Value: 2H 7C 10H 13C 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 7H 9H 9D 13C  Player2 Value: 3S 8C 10C 10S 10D 
+Combination: Pair            Combination: Threeofkind
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 4H 7C 10D 12H  Player2 Value: 6D 6H 7D 11S 14S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3D 6S 7H 14H  Player2 Value: 3H 4H 8H 10C 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 10C 10D 12H 14S  Player2 Value: 2S 5H 10H 11S 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 9H 11D 11C 13C  Player2 Value: 3C 5C 7C 10H 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 4D 5S 7D 12H  Player2 Value: 4S 7H 10C 10D 11D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 3D 6S 13D 13C  Player2 Value: 2S 3S 9D 9C 14S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 9H 10D 11S 14S  Player2 Value: 2H 3C 5D 8C 11H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 5C 6C 7H 9C  Player2 Value: 4C 7C 12D 13C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 6D 6S 7D 14S  Player2 Value: 2H 4H 5D 10H 10S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 7H 10D 10C 10S  Player2 Value: 6H 7C 8S 12D 13C 
+Combination: Threeofkind            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 2D 4H 7S 12D  Player2 Value: 3S 5D 6H 7H 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7D 8S 9S 12H  Player2 Value: 6S 10C 11H 13D 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 6S 9H 10D 12C  Player2 Value: 4H 7D 11C 11H 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4D 4S 9C 11D  Player2 Value: 8D 9S 10C 12D 13S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 8H 9H 10D 13D  Player2 Value: 3D 8S 10C 12S 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 5H 7C 8S 10C  Player2 Value: 2C 8H 11D 12H 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5C 11S 13D 14H  Player2 Value: 2H 4H 5D 8S 11H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 5S 9C 9D 10S  Player2 Value: 2H 7S 8S 13D 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 10D 10C 11D 14C  Player2 Value: 5H 5D 5C 7C 14S 
+Combination: Pair            Combination: Threeofkind
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5C 7D 10C 14S  Player2 Value: 5D 11C 13C 13S 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4D 5H 10H 12S  Player2 Value: 2C 7H 7D 11D 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 8D 8C 11D 12D 13D  Player2 Value: 2S 3S 4C 5C 7S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3H 5H 8C 14H  Player2 Value: 2S 4H 7H 10H 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5D 8S 8C 9C  Player2 Value: 2C 3H 4D 9H 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 8H 11H 12C 14C  Player2 Value: 3C 5D 6S 11C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6S 10C 10H 11C 14C  Player2 Value: 2C 4D 5C 6H 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4S 9H 10C 14S  Player2 Value: 3D 10S 10D 11C 13S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 7S 8C 12S 14H  Player2 Value: 3H 3D 10S 13H 13C 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 6H 7C 11D 14H  Player2 Value: 4D 5D 5H 8D 14S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 9D 12C 12H 13S  Player2 Value: 4H 5H 6C 7H 11S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 9S 10D 12S 12H  Player2 Value: 2S 5C 8H 10C 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 9S 12C 12S 13C  Player2 Value: 2C 3C 4D 5S 11S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 6D 8C 13D 13C  Player2 Value: 2C 3D 9D 12S 13S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4C 5D 8C 8H  Player2 Value: 2H 4H 10S 11S 13C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 6C 8H 12D 14S  Player2 Value: 2C 4C 10C 13S 13D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6S 9H 10H 11C  Player2 Value: 2D 3H 7D 10S 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4H 7S 8D 9C  Player2 Value: 3S 4C 5S 7D 9D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3D 4S 6S 10C  Player2 Value: 3S 5C 6C 9S 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6C 6H 7D 13H 14C  Player2 Value: 5C 5H 9S 12D 14S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6D 9S 10H 10C 12D  Player2 Value: 2H 4C 11C 12S 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6D 8H 13H 14D  Player2 Value: 4D 7C 9D 9H 12C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4C 6H 11D 14D  Player2 Value: 4S 8S 9S 10H 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4S 8S 8H 11D  Player2 Value: 2H 3S 4C 6C 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 8D 9D 10H 13S  Player2 Value: 4D 7S 7H 10C 11H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 2H 2D 4C 6S  Player2 Value: 2S 3H 12D 12H 14H 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 9D 9H 13D 14S  Player2 Value: 2S 2D 4C 11H 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4S 6H 10C 13S  Player2 Value: 2H 4C 4D 10S 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 8C 11C 13S 14S  Player2 Value: 3C 6C 6S 7D 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 5H 12C 14D 14C  Player2 Value: 2S 5S 6D 6C 11D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 5H 6C 10H 11H  Player2 Value: 8S 8C 8D 10S 11S 
+Combination: Highcard            Combination: Threeofkind
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 3S 10C 11D 14D  Player2 Value: 6S 7S 9C 13S 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3C 5C 12H 14H  Player2 Value: 2S 6C 8S 9C 11D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 6S 7C 12D 14D  Player2 Value: 7D 10D 11D 13D 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6C 6H 12D 12S 12H  Player2 Value: 5D 8H 10S 13H 14D 
+Combination: Fullhouse            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 5H 9S 10H 11S  Player2 Value: 2H 4D 8D 10D 10C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 10C 12C 12D 14C  Player2 Value: 3C 4S 7H 11D 11C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 8H 11H 13H 13C  Player2 Value: 2H 9C 9D 12H 14C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6D 10H 13C 14D 14S  Player2 Value: 4D 5D 5H 6H 12D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6C 6D 9C 13C 13H  Player2 Value: 2H 3S 4D 5C 13S 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 10C 11S 12S 12D  Player2 Value: 6S 7D 10H 12H 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7H 7D 9H 10D 12D  Player2 Value: 2S 5D 9S 11D 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3C 6D 7S 7C  Player2 Value: 3S 3H 11D 12H 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 6S 6H 11C 12H  Player2 Value: 4C 5C 6D 13H 13S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 8D 10C 12D 12C 14C  Player2 Value: 4C 6H 9D 11H 13S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6C 7D 10C 12D 13D  Player2 Value: 2D 7S 8S 8C 8D 
+Combination: Highcard            Combination: Threeofkind
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 4D 9S 11S 14S  Player2 Value: 2H 4H 6S 8D 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4H 7C 7D 9H  Player2 Value: 6C 8C 12H 12S 12C 
+Combination: Pair            Combination: Threeofkind
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7H 8S 12D 12H  Player2 Value: 3C 6D 8C 10H 13C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 6H 9D 12H 12S  Player2 Value: 3C 5S 6C 8C 9H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 6D 8C 11D 13H  Player2 Value: 4H 5C 5H 7C 8H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 11D 12C 12D 12S 13D  Player2 Value: 4H 4D 9D 10H 14S 
+Combination: Threeofkind            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 6C 8D 13H 14S  Player2 Value: 4C 6S 7H 7D 9D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 6D 10C 10D 14H  Player2 Value: 3D 6S 6C 9D 13H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 2C 4S 11H 12D  Player2 Value: 3C 3S 5H 9H 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 8D 9S 9D 14H  Player2 Value: 2H 3S 6S 11D 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 6H 8H 10H 12H  Player2 Value: 2C 7D 11S 11H 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5S 7D 9S 11C  Player2 Value: 2S 3D 10S 12D 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 7H 8C 13H 14H  Player2 Value: 2H 4H 8D 12S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 5C 7S 8D 11C  Player2 Value: 4H 5H 9S 11S 11H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 3D 5C 8C 11C  Player2 Value: 2S 3H 4H 7H 10H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 8C 11C 12D 14S 14C  Player2 Value: 3H 4C 6H 7H 10C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7S 11H 11D 11S 13S  Player2 Value: 2D 8H 12S 13H 14S 
+Combination: Threeofkind            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 11D 12D 12S 13C 14S  Player2 Value: 3S 6C 8C 8H 9D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 6S 6D 8D 11H  Player2 Value: 6H 7C 10C 13D 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 8H 9S 10H 13D  Player2 Value: 3D 4S 5C 9H 12C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3S 5S 5D 12H  Player2 Value: 2C 4S 5C 6H 11D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7C 8D 9C 11C 13D  Player2 Value: 3H 10C 11D 13H 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3D 7S 12C 14S  Player2 Value: 2S 4D 4S 10C 13D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 9D 10S 11D 14H  Player2 Value: 2D 4C 6D 13H 13S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 2C 9S 9H 10D  Player2 Value: 3D 7S 8D 10C 11S 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 9S 11H 12H 14H  Player2 Value: 2D 4D 8C 12S 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 5C 7C 8D 12D  Player2 Value: 2D 3S 5S 10D 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4D 11C 12H 13C  Player2 Value: 4S 6D 8H 9C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 4C 6H 10H 13C  Player2 Value: 4D 5S 7S 9C 11S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 7H 9D 10S 11H  Player2 Value: 3S 5H 8H 11D 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6C 8H 9D 14C  Player2 Value: 4S 8S 8C 9H 11H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 4D 6H 12D 13D  Player2 Value: 2D 4C 9S 10C 12S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 5S 6C 9S 11H  Player2 Value: 2C 4S 8S 12S 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 4H 7S 8S 10H  Player2 Value: 3S 4S 12C 13H 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 2D 6C 10D 14S  Player2 Value: 2C 2S 5D 9H 10C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4C 9H 9C 11C  Player2 Value: 5H 5D 6C 7D 12S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 2S 3H 9C 14H  Player2 Value: 6H 7S 10H 11C 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7C 11S 11H 14H  Player2 Value: 4H 7H 8S 9S 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 6H 11C 12D 14S  Player2 Value: 2D 3H 10H 11S 12H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 4C 8H 10S 14H  Player2 Value: 4D 5D 7S 11D 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7C 9C 10H 14H  Player2 Value: 2H 4S 5S 8H 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 9S 10D 12C 13H  Player2 Value: 8C 10C 11S 13S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 8D 9C 10D 12H 14C  Player2 Value: 2H 7S 10C 11C 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4H 8H 11D 14H  Player2 Value: 8C 9C 12S 13C 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 4H 6H 6S 11H  Player2 Value: 2H 5D 5C 13C 13D 
+Combination: Pair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 5H 5C 8D 14H  Player2 Value: 7C 9C 10S 11C 12D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6H 7C 7D 10H  Player2 Value: 4D 4H 8S 9D 12H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 5C 6C 10C 14S  Player2 Value: 3C 7H 10S 12H 12C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6H 8C 11D 12C 14D  Player2 Value: 3S 3C 4S 6S 7C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6S 7C 8D 12D 13C  Player2 Value: 2S 3D 6D 11D 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 7D 10H 12S 13H  Player2 Value: 6S 9S 9D 14S 14C 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 5S 6H 10C 13S  Player2 Value: 2S 6D 7C 11C 12D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 2C 5D 9S 10H  Player2 Value: 4C 6H 6C 10S 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6C 7H 9S 12S  Player2 Value: 4D 8S 11S 13H 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 6H 7H 8S 9H  Player2 Value: 5S 7C 7S 9C 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3D 5D 5S 8C  Player2 Value: 3H 9C 9D 12C 13S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7C 11H 11D 12S 14C  Player2 Value: 3D 3C 4S 8D 10C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 9S 9H 11S 14C  Player2 Value: 3D 4C 10H 13D 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3H 4D 9H 14C  Player2 Value: 6S 9D 11C 12S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 5D 7C 10S 12D  Player2 Value: 4S 9H 9D 10C 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 6S 9S 9H 14C  Player2 Value: 2C 6C 10D 11S 11C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4S 5S 13H 14H  Player2 Value: 4C 6S 9D 11D 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 2C 6S 8S 12C  Player2 Value: 2H 7S 7H 11S 12S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6H 9H 9C 10H 11C  Player2 Value: 2D 7D 8H 11H 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 5H 8C 11H 11D  Player2 Value: 4S 4C 6D 10S 14S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6C 10H 13S 13D 14H  Player2 Value: 4S 7S 10S 11C 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3D 5C 10D 13C  Player2 Value: 3H 5D 8C 9S 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 5S 8C 11D 13S  Player2 Value: 6S 7D 10C 12D 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 6H 7H 8S 12H  Player2 Value: 2C 3S 9C 10D 12S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 5H 7D 11H 12H  Player2 Value: 2H 8H 8S 10D 11C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3H 5H 5S 11D  Player2 Value: 3C 4C 4H 11C 14S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6D 7C 10H 11C 12C  Player2 Value: 4D 6C 10D 14S 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3C 5S 5C 7S  Player2 Value: 2C 3H 9D 13C 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 5C 5D 7C 9S  Player2 Value: 3H 6C 8S 11C 13D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 11H 12S 13H 14H  Player2 Value: 2S 3S 9S 9D 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 5C 9D 12D 13S  Player2 Value: 2C 2D 6C 13D 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5H 5D 11D 12S  Player2 Value: 3D 3S 5C 8C 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3H 5S 12H 13S  Player2 Value: 6D 7H 7D 9D 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7C 8D 12C 14S  Player2 Value: 8H 8C 13S 14D 14C 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 9S 12H 12S 14S 14H  Player2 Value: 2S 2C 4S 7S 10H 
+Combination: TwoPair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 10D 11H 12C 13S  Player2 Value: 3S 3C 4S 4D 7S 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 3H 9H 9D 12D  Player2 Value: 2H 6D 10D 10S 11C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 10H 10C 11H 12H  Player2 Value: 5S 5C 6H 9H 12C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5D 9S 9D 11S  Player2 Value: 2C 4C 8C 9H 11H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3C 5C 9C 14D  Player2 Value: 2C 3D 5S 7C 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 4D 7D 10H 14C  Player2 Value: 2S 3H 7S 13D 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 7S 7D 7C 10C 11H  Player2 Value: 4D 5D 7H 10H 11C 
+Combination: Threeofkind            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3H 10H 11S 14H  Player2 Value: 3S 9S 9H 14D 14C 
+Combination: Highcard            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3S 8H 11H 13H  Player2 Value: 5H 9C 9D 10H 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5D 6S 6D 7D  Player2 Value: 3H 4C 8S 12D 14H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 8H 8D 12S 13H  Player2 Value: 2S 5H 7D 10C 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 3D 5H 11D 14C  Player2 Value: 2S 3H 6C 9C 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 6S 10S 11S 14C  Player2 Value: 6H 7S 8S 11D 13D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 7H 9C 11C 14S  Player2 Value: 2D 3D 5S 10D 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4H 7D 11C 12H  Player2 Value: 5H 8D 9H 13D 13S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 7C 9D 11H 11C  Player2 Value: 5C 8C 9S 10C 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 6S 12H 12D 12C  Player2 Value: 2C 4D 5H 10C 14S 
+Combination: Threeofkind            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 5S 6S 8C 10D  Player2 Value: 4D 5C 5D 8S 13S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 3H 9H 13C 14H  Player2 Value: 5C 7S 7D 7C 8C 
+Combination: Highcard            Combination: Threeofkind
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 8C 9C 10H 11H  Player2 Value: 6H 8H 11S 12H 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 8C 11H 11S 12C  Player2 Value: 2H 7C 7D 10D 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6D 8C 9D 9S 12S  Player2 Value: 8H 8D 11D 11S 14D 
+Combination: Pair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 8C 11H 13H 14S 14H  Player2 Value: 2H 9C 10C 12H 14D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3C 4D 9D 11D  Player2 Value: 2H 5S 8D 8S 10H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 9S 12H 13H 14H  Player2 Value: 7S 12D 12C 13D 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 6C 11D 11C 12D  Player2 Value: 2D 5H 7C 8H 13H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3D 3H 10C 14D  Player2 Value: 5S 7H 8D 11D 11S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 9C 9S 12D 12C 14C  Player2 Value: 2C 5S 5H 8H 13S 
+Combination: TwoPair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 7D 7C 9H 13D  Player2 Value: 6D 6S 7H 9S 11D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6S 8D 12D 13D 13H  Player2 Value: 3D 4S 5S 9H 10S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6S 7H 8H 11H 12C  Player2 Value: 2H 5H 8S 11C 13S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 6S 6H 8H 9C  Player2 Value: 2C 4S 5H 11D 13D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3C 9S 11H 12C  Player2 Value: 6H 12D 13S 13C 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7H 10H 12S 13S  Player2 Value: 2H 4S 4C 8S 11D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4C 8H 10C 13H  Player2 Value: 4S 10H 12H 12D 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 11C 13C 13H 14D  Player2 Value: 2S 3D 11S 12S 14C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 9H 9D 10C 13S  Player2 Value: 2H 2S 5D 12S 13C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 8S 10C 11H 14S  Player2 Value: 3C 6C 8H 8D 12C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5H 9C 10D 10H 12S  Player2 Value: 4H 5S 6D 7H 8C 
+Combination: Pair            Combination: Straight
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 5S 5D 8C 9S  Player2 Value: 3C 3H 6H 8H 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 11D 11H 12D 12H  Player2 Value: 2S 4D 8S 10S 14S 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 5S 5C 9S 14C  Player2 Value: 3S 3C 4S 5D 11C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 10H 12C 14H 14C  Player2 Value: 6D 7H 8D 11C 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4C 10S 13S 14D  Player2 Value: 5S 6S 7S 11D 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4H 6D 13C 14H  Player2 Value: 2S 3D 9S 11D 13D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 9D 9C 11D 12H  Player2 Value: 2H 3D 7H 11C 13S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3S 7S 12S 13H  Player2 Value: 3H 8C 11D 13C 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3S 9S 12H 13S  Player2 Value: 7S 8H 10D 10C 12C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 6D 11C 13H 14D  Player2 Value: 3S 4S 7D 8S 11D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 9S 10S 11C 13H 13S  Player2 Value: 4S 5H 7H 11H 12C 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 8H 9S 10S 14S  Player2 Value: 4C 9D 11S 13C 14D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 5D 12D 12S 13D  Player2 Value: 2S 6D 9H 12H 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3H 4D 13C 13D  Player2 Value: 2D 4S 7S 7H 8D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3S 8S 13C 13S  Player2 Value: 9D 10C 11D 14C 14H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7D 9H 9C 10C  Player2 Value: 4S 5H 5D 6H 11C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 5S 6D 10D 11D  Player2 Value: 2D 6S 9H 10H 12H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6H 9C 9S 11C 11H  Player2 Value: 2D 3D 4H 10H 12D 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 4S 5H 9H 10C  Player2 Value: 2C 8D 11C 11H 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 10H 13H 13D 14C  Player2 Value: 2S 4H 11C 12S 12H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 9H 13H 13S 14H  Player2 Value: 5S 6S 10D 10C 12C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 2D 2C 3C 6C  Player2 Value: 3S 6S 7S 9C 14D 
+Combination: Threeofkind            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 4C 8D 10S 13S  Player2 Value: 2D 3C 6H 10D 10H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 4H 5S 9D 11S  Player2 Value: 5H 6S 7D 8D 12D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5C 6C 8S 12D  Player2 Value: 3S 3C 5S 9D 13H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 6H 11C 12C 13S  Player2 Value: 3H 4S 9S 10S 11H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 6H 8C 9D 11D  Player2 Value: 2C 5H 9C 12S 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 6H 9S 11H 14S  Player2 Value: 2S 5C 6C 10C 11S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 7H 7C 9C 13H  Player2 Value: 3H 6D 8H 13S 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 6H 8S 12C 14H  Player2 Value: 2H 6C 11H 14C 14S 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3C 3H 6S 14D  Player2 Value: 3D 5S 9S 13H 13D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 5C 7S 10S 13H  Player2 Value: 3H 3C 10C 12D 14H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 8S 11H 12C 14D  Player2 Value: 2S 2D 4H 5S 10D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 9C 11S 12C 14C  Player2 Value: 2S 5S 6C 7H 10D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 5D 6H 13S 14C  Player2 Value: 8S 9C 9D 12S 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 7S 8D 10S 12D  Player2 Value: 2C 5C 5H 11H 13D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5H 8H 11C 13D  Player2 Value: 3C 7C 11H 12S 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 5D 12D 13D 13H  Player2 Value: 2D 3C 4D 7H 8D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 6H 10H 11H 12D  Player2 Value: 2C 4C 11C 11D 12C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 7H 9D 10D 12S  Player2 Value: 2C 10H 11H 12H 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6S 11D 12D 13C 13S  Player2 Value: 4C 5S 7S 13H 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5H 7D 13H 13S  Player2 Value: 4S 4H 6D 6H 10S 
+Combination: Pair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 2H 7S 7H 8S  Player2 Value: 8C 9H 11S 11D 13S 
+Combination: TwoPair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 10C 13D 14S 14H  Player2 Value: 2C 9H 10D 11D 12S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 6S 9H 10H 14D  Player2 Value: 3S 9D 11H 13C 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 4D 5S 11C 11S  Player2 Value: 6D 13S 13C 14D 14H 
+Combination: TwoPair            Combination: TwoPair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 9D 10D 12C 13S  Player2 Value: 3C 5D 6D 10H 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 7S 9D 12S 14D  Player2 Value: 3H 4C 8S 13S 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5H 6S 6D 13S  Player2 Value: 10H 10S 11D 13H 14D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3S 4D 7D 10H 14S  Player2 Value: 3C 3H 4S 9D 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5D 7D 13C 14S  Player2 Value: 3D 3S 4H 8H 14D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 7D 7C 9C 10S  Player2 Value: 2H 2D 6S 10H 11H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3D 8S 12S 13C  Player2 Value: 2H 3C 9C 13D 14S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 3C 4C 11C 14H  Player2 Value: 2C 4H 6C 8C 9D 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 6S 9C 10C 14D  Player2 Value: 4H 11D 12H 12D 13D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 9S 11S 12C 12S  Player2 Value: 2C 3D 7D 9H 10D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 4D 5D 14S 14H  Player2 Value: 3S 7H 9D 11C 12S 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 9H 11D 11C 12H 13C  Player2 Value: 5C 10D 12C 12S 14C 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 9S 10D 10C 12D  Player2 Value: 2S 10H 11S 13S 13D 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 2C 4C 6S 10H  Player2 Value: 3H 6H 7H 8H 10D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5D 11H 12D 13C  Player2 Value: 8D 9D 10C 10S 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 8S 11D 11C 13S  Player2 Value: 3C 6S 11S 12H 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 4D 6S 12C 12H  Player2 Value: 2D 3H 6H 7H 8S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 6S 9D 11S 12C  Player2 Value: 2S 5H 6C 9C 12H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6D 6S 10H 10D 13H  Player2 Value: 5C 7D 11S 12C 14C 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3C 6C 7S 9S 13C  Player2 Value: 9C 10C 11D 12C 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 5D 10S 13C 14S  Player2 Value: 6D 7C 8S 9C 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 6C 10S 10D 13C 13H  Player2 Value: 6S 9S 10H 12D 14H 
+Combination: TwoPair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4C 9H 11H 12C 13S  Player2 Value: 2S 7C 10D 10S 10C 
+Combination: Highcard            Combination: Threeofkind
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2C 3S 3C 13H 14H  Player2 Value: 5S 6D 8C 9S 11S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 8D 10S 12D 13S  Player2 Value: 7C 8S 9C 9D 10H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 7D 9C 10D 10S  Player2 Value: 2H 3S 8C 12S 14S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 6H 6D 8S 13C  Player2 Value: 2D 3D 7H 8H 12H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3D 5C 10S 13C 14H  Player2 Value: 4S 9D 11S 13D 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 6H 13D 13H 14C  Player2 Value: 2S 3S 4C 7D 9D 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 6S 8D 9D 14H  Player2 Value: 3S 4S 8S 11S 11H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 4S 8C 10S 14S  Player2 Value: 5C 8S 9H 10D 12S 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5S 7H 9D 10H 11H  Player2 Value: 2H 3D 4C 7D 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 7H 8C 11D 12S  Player2 Value: 3H 6S 7S 8D 10H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 6S 11H 12S 14C  Player2 Value: 4D 4H 8C 9D 10D 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5D 6D 9C 10C 11D  Player2 Value: 3H 6H 8C 9S 11S 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2D 6S 9H 11D 12S  Player2 Value: 4D 5C 5H 9S 13C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 7D 12C 13D 13S  Player2 Value: 5D 9C 9H 12H 13H 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4H 7C 7H 9C 12D  Player2 Value: 4D 5C 6S 10H 12H 
+Combination: Pair            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4S 5S 10C 12D 13D  Player2 Value: 5D 6S 7D 10H 13H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 4S 6H 10C 13C  Player2 Value: 6C 7C 8S 10S 14H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2S 5H 8C 9D 13H  Player2 Value: 2D 3H 6S 10H 14C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 4D 5D 9S 11C 14S  Player2 Value: 3S 5S 6S 7C 13C 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 5C 10C 13H 14H 14C  Player2 Value: 3H 4H 4D 5H 14S 
+Combination: Pair            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3S 4C 6D 14D  Player2 Value: 5H 7D 12D 14S 14C 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 3S 4C 8C 14H  Player2 Value: 4H 5D 6C 7S 11H 
+Combination: Highcard            Combination: Highcard
+-----------------------------------------------------------------------------------------------
+Player1 Value: 3H 4D 7S 9C 12D  Player2 Value: 4H 5D 5S 7H 12H 
+Combination: Highcard            Combination: Pair
+-----------------------------------------------------------------------------------------------
+Player1 Value: 2H 9S 9C 11D 13H  Player2 Value: 4H 8H 9H 10D 11C 
+Combination: Pair            Combination: Highcard
